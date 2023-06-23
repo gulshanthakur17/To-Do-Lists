@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/To-Do-Lists/static/css/main.70629458.css",
+    "main.js": "/To-Do-Lists/static/js/main.3cd4a591.js",
+    "static/js/787.2843ca88.chunk.js": "/To-Do-Lists/static/js/787.2843ca88.chunk.js",
+    "index.html": "/To-Do-Lists/index.html",
+    "main.70629458.css.map": "/To-Do-Lists/static/css/main.70629458.css.map",
+    "main.3cd4a591.js.map": "/To-Do-Lists/static/js/main.3cd4a591.js.map",
+    "787.2843ca88.chunk.js.map": "/To-Do-Lists/static/js/787.2843ca88.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70629458.css",
+    "static/js/main.3cd4a591.js"
+  ]
+}
